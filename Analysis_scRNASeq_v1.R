@@ -2,6 +2,7 @@
 ## VERSION 0.1  fecha: 20221001 
 ## AUTOR: Oscar Pastor 
 ## NOTAS: 
+### pruebas cambios
 ###################
 
 library(dplyr)
