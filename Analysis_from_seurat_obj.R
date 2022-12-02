@@ -1,5 +1,5 @@
 ## Analisis datos sc-RNAseq iScience Paper
-## VERSION 0.1  fecha: 20221124
+## VERSION 1.0  fecha: 20221124
 ## AUTOR: Oscar Pastor 
 ## NOTAS: 
 ## PMID: 34755088
